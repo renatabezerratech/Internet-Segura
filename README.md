@@ -1,4 +1,4 @@
-# Aprendendo-a-navegar-na-internet
+# Internet Segura 👩‍🏫
 
 <img align="right" src="segura.png" width="200">
 

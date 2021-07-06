@@ -1,0 +1,1 @@
+alert("Bem vindo ao Internet Segura! Clique na seta para começar.");

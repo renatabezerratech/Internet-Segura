@@ -1,1 +1,4 @@
-alert("Bem vindo ao Internet Segura! Clique na seta para começar.");
+
+function clicar(){
+    document.getElementById("perigo").innerHTML="Quem mandou esse link para você é alguém que você não conhece?&nbsp;Então você não pode clicar para abrir o link!";
+}

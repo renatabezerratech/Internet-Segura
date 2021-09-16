@@ -15,6 +15,8 @@ HTML5, CSS3 e JS.
 
 Autora: Renata Silva Bezerra
 
-
+## 📑 Diagrama de caso de uso 
+<br>
+<img src="Site Internet Segura/Imagens/Diagrama de caso de uso Internet Segura.png" width="700">
 
  

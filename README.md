@@ -2,7 +2,7 @@
 
 <img align="right" src="segura.png" width="200">
 
-Objetivo: Essa é uma ideia de site educativo para que as crianças aprendam segurança da informação de maneira interativa.
+>Objetivo: Essa é uma ideia de site educativo para que as crianças aprendam segurança da informação de maneira interativa.
 
 ### 🛠 Tecnologias
 

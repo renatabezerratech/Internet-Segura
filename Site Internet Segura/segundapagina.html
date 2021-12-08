@@ -2,17 +2,22 @@
 <html lang="pt-br"><!--idioma português-->
 <head><!--cabeçalho/configurações-->
     <meta charset="UTF-8"><!--acentuação-->
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"><!--compatibilidade-->
     <meta name="viewport" content="width=device-width, initial-scale=1.0"><!--100% de aproveitamento do espaço-->
     <link rel="stylesheet" type="text/css" href="estilo.css"><!--linca as folha de estilo-->
-    <link rel="shortcut icon" href="Imagens/favicon.ico" type="image/x-icon">
+    <link rel="shortcut icon" href="Imagens/favicon.ico" type="image/x-icon"><!--favicon-->
     <title>Internet Segura.</title><!--título do documento-->
 </head>
 <body>
-    <h1>&#x1F47B;Vamos pensar sobre o que pode acontecer quando estamos navegando na internet.</h1>
-    <nav> <!--menu-->
+    <!--Título da segunda página-->
+    <h1 id="tituloSegPag">&#x1F47B;Vamos pensar sobre o que pode acontecer quando estamos navegando na internet.</h1>
+    <script src="alterar.js"></script><!--JS altera o título e cria interação ao clicar no título-->
+    
+
+    <!--elementos da página-->
+    <nav> 
         <table>
-            <tr>
+            <tr><!--vídeos-->
                 <td>
                     <embed width="658" height="370" src="Imagens/Cuidado.mp4">
                 </td>                                       
@@ -20,13 +25,13 @@
                     <embed width="658" height="370" src="Imagens/Você sabe navegar na internet com segurança.mp4">
                 </td>
             </tr>
-            <tr>
+            <tr><!--imagens-->
                 <td>
                     <img id="mapamental" src="Imagens/segurança.png">
                 </td>
            
                 <td>
-                    <img id="duvida" src="Imagens/duvida.gif">
+                    <img id="duvida" src="Imagens/duvida.gif" >
                 </td>
             </tr>
         </table>
